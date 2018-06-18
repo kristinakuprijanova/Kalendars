@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1524818984 source:h:\kalendar\kalendars\main.cpp
+	<iostream>
+	<stdlib.h>
+	"header/menu.h"
+
+1524818960 h:\kalendar\kalendars\header\menu.h
+
+1525853667 source:h:\kalendar\kalendars\source\kalendr.cpp
+	<iostream>
+	<stdlib.h>
+
+1525853631 source:h:\kalendar\kalendars\source\menu.cpp
+	<iostream>
+	<stdlib.h>
+
+1524820342 h:\kalendar\kalendars\header\kalendr.h
+
+1525853632 source:c:\users\krist\desktop\new folder\kalendars\source\menu.cpp
+	<iostream>
+	<stdlib.h>
+
+1525858150 source:c:\users\krist\desktop\new folder\kalendars\main.cpp
+	<iostream>
+	<stdlib.h>
+	"header/menu.h"
+
+1524818962 c:\users\krist\desktop\new folder\kalendars\header\menu.h
+
+1525858150 source:d:\kalendars\main.cpp
+	<iostream>
+	<stdlib.h>
+	"header/menu.h"
+
+1527854818 d:\kalendars\header\menu.h
+
+1528662352 source:d:\kalendars\source\menu.cpp
+	<iostream>
+	<stdlib.h>
+	"../header/kalendr.h"
+	"../header/atrastdat.h"
+
+1528662086 source:d:\kalendars\source\kalendr.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"../header/kalendr.h"
+
+1528558728 d:\kalendars\header\kalendr.h
+	<iostream>
+
+1527854615 source:c:\users\krist\desktop\kal.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<windows.h>
+
+1525858150 source:c:\users\krist\desktop\kalendars\main.cpp
+	<iostream>
+	<stdlib.h>
+	"header/menu.h"
+
+1527854818 c:\users\krist\desktop\kalendars\header\menu.h
+
+1529185609 source:c:\users\krist\desktop\kalendars\source\menu.cpp
+	<iostream>
+	<stdlib.h>
+	"../header/kalendr.h"
+	"../header/atrastdat.h"
+	"../header/piezimes.h"
+
+1529332427 c:\users\krist\desktop\kalendars\header\kalendr.h
+	<iostream>
+
+1529336907 source:c:\users\krist\desktop\kalendars\source\kalendr.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	"../header/kalendr.h"
+	"../header/menu.h"
+
+1529261909 c:\users\krist\desktop\kalendars\header\atrastdat.h
+
+1529263888 source:c:\users\krist\desktop\kalendars\source\atrastdat.cpp
+	<iostream>
+	<string>
+	<stdlib.h>
+	"../header/atrastdat.h"
+	"../header/menu.h"
+
+1528662912 source:d:\kalendars\source\atrastdat.cpp
+	<iostream>
+	<string>
+	"../header/atrastdat.h"
+
+1528662184 d:\kalendars\header\atrastdat.h
+
+1529187886 c:\users\krist\desktop\kalendars\header\piezimes.h
+	<iostream>
+
+1529262379 source:c:\users\krist\desktop\kalendars\source\piezimes.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	"../header/piezimes.h"
+	"../header/menu.h"
+
